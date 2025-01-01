@@ -1,3 +1,3 @@
 # project
-For all my projects.
+My projects.
 Author - Sumit Shukla
